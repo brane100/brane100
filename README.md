@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, C, Android**
 
-- 📫 How to reach me: **bpetrevski2@gmail.com**
+- 📫 How to reach me: **3petrevski@gmail.com**
 
 - ⚡ Fun fact: **I got lost in Vienna at night..**
 
