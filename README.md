@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brane100&label=Profile%20views&color=0e75b6&style=flat" alt="brane100" /> </p>
 
+<!--  
+
 - 🔭 I’m currently working on [Data Automation App](https://github.com/brane100/Data-Automation-App)
+-->
 
 - 🌱 I’m currently learning **C#**
 
