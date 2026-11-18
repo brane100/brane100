@@ -1,28 +1,35 @@
-<h1 align="center">Hi 👋, I'm Branko!</h1>
-<h3 align="center">A passionate CS student from Macedonia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brane100&label=Profile%20views&color=0e75b6&style=flat" alt="brane100" /> </p>
-
-<!--  
-
-- 🔭 I’m currently working on [Data Automation App](https://github.com/brane100/Data-Automation-App)
--->
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Java, C, Android**
-
-- 📫 How to reach me: **3petrevski@gmail.com**
-
-- ⚡ Fun fact: **I got lost in Vienna at night..**
-
-<h3 align="left">Connect with me:</h3>
+# ~/branko $ cat about.js
+ 
+<img src="https://komarev.com/ghpvc/?username=brane100&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+```js
+const branko = {
+  from:       "Macedonia",
+  studying:   "Computer Science",
+  learning:   "Angular",
+  askMeAbout: ["Java", "C", "Android"],
+  email:      "bpetrevski2@gmail.com",
+  funFact:    "Got lost in Vienna at night. Made it back.",
+};
+```
+ 
+## Projects
+ 
+- [**RL-Maze-Navigation**](https://github.com/brane100/RL-Maze-Navigation): an agent that learns to find its way through a maze with reinforcement learning.
+- [**Overlords-Bane**](https://github.com/brane100/Overlords-Bane): sci-fi rogue adventure game to escape the Overlords' tricks and traps.
+- [**Macedonian-Folklore-App**](https://github.com/brane100/Macedonian-Folklore-App): a web app that introduces you to Macedonian dances.
+  
+## Tools
+ 
 <p align="left">
-<a href="https://www.linkedin.com/in/branko-petrevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/branko-petrevski" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisbranko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisbranko" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,html,css,postgres,git,linux,ps&theme=dark" alt="Java, C, C++, JavaScript, TypeScript, HTML, CSS, PostgreSQL, Git, Linux, Photoshop" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brane100&show_icons=true&locale=en&layout=compact" alt="brane100" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brane100&layout=compact&theme=github_dark&hide_border=true" alt="top languages" />
+</p>
+## Contact
+ 
+```bash
+$ contact --list
+```
+ 
+[LinkedIn](https://www.linkedin.com/in/branko-petrevski) · [Instagram](https://instagram.com/thisisbranko) · [Email](mailto:bpetrevski2@gmail.com)
