@@ -15,7 +15,7 @@ const branko = {
 };
 ```
  
-## Projects
+## Projects I am proud of
  
 - [**RL-Maze-Navigation**](https://github.com/brane100/RL-Maze-Navigation): an agent that learns to find its way through a maze with reinforcement learning.
 - [**Overlords-Bane**](https://github.com/brane100/Overlords-Bane): a sci-fi rogue adventure game to escape the Overlords' tricks and traps.
