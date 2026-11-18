@@ -1,7 +1,10 @@
 # ~/branko $ cat about.js
- 
+
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=brane100&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-```js
+</p>
+
+```javascript
 const branko = {
   from:       "Macedonia",
   studying:   "Computer Science",
