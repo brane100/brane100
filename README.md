@@ -18,7 +18,7 @@ const branko = {
 ## Projects
  
 - [**RL-Maze-Navigation**](https://github.com/brane100/RL-Maze-Navigation): an agent that learns to find its way through a maze with reinforcement learning.
-- [**Overlords-Bane**](https://github.com/brane100/Overlords-Bane): sci-fi rogue adventure game to escape the Overlords' tricks and traps.
+- [**Overlords-Bane**](https://github.com/brane100/Overlords-Bane): a sci-fi rogue adventure game to escape the Overlords' tricks and traps.
 - [**Macedonian-Folklore-App**](https://github.com/brane100/Macedonian-Folklore-App): a web app that introduces you to Macedonian dances.
   
 ## Tools
