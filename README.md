@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Data Automation App](https://github.com/brane100/Data-Automation-App)
 -->
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java, C, Android**
 
