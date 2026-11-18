@@ -7,7 +7,7 @@
 ```javascript
 const branko = {
   from:       "Macedonia",
-  studying:   "Computer Science",
+  studying:   "Computer Science in Slovenia",
   learning:   "Angular",
   askMeAbout: ["Java", "C", "Android"],
   email:      "bpetrevski2@gmail.com",
